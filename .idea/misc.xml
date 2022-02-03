@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/drawable/ic_trending.xml" value="0.272" />
         <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/category_items.xml" value="0.13069908814589665" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/fragment_cart.xml" value="0.26875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/fragment_favorite.xml" value="0.26875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/fragment_settings.xml" value="0.26875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/layout/fragment_trending.xml" value="0.26875" />
         <entry key="..\:/Users/James/AndroidStudioProjects/Odiarc/app/src/main/res/menu/navigation_menu.xml" value="0.26875" />
       </map>
     </option>
